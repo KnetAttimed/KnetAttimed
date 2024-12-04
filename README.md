@@ -4,8 +4,9 @@
 
 <h1 align="center">Hello 🧠, I'm Knet Attimed (Kiattisak Phothawimoncharat)</h1>
 <h3 align="center">I'm Medical Student but I prefer programing. I'm nooby ieie</h3>
-
-<img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://i.pinimg.com/originals/a3/f2/0f/a3f20f2ee16cee43a9b85d40fc0a45f9.gif)" width="60"> 
+<a href="https://git.io/typing-svg">
+    <img src="https://i.pinimg.com/originals/a3/f2/0f/a3f20f2ee16cee43a9b85d40fc0a45f9.gif" alt="Business Analyst"/>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
