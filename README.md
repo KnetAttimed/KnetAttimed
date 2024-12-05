@@ -3,7 +3,14 @@
 <h3 align="center">Kiattisak Phothawimoncharat</h3>
 <h3 align="left">I'm Medical Student but I prefer programing. I'm nooby ieie</h3>
 
-![GIF Title](https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif)
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif">
+
+
+### - Preference : 
+- Anime
+- Coding
+- JPOP
+- Science
 
 
 
