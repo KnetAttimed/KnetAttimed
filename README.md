@@ -1,4 +1,4 @@
-![Demo GIF](Knet Attimed.gif)
+![Knet Attimed](Knet%20Attimed.gif)
 <h1 align="center"> Hello, I'm Knet Attimed </h1>
 <h3 align="center">Kiattisak Phothawimoncharat</h3>
 <h3 align="center">I'm Medical Student but I prefer programing. I'm nooby ieie</h3>
