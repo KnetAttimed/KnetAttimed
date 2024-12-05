@@ -1,16 +1,18 @@
 ![Knet Attimed](Knet%20Attimed.gif)
 <h1 align="center"> Hello, I'm Knet Attimed </h1>
-<h3 align="center">Kiattisak Phothawimoncharat</h3>
 <h3 align="left">I'm Medical Student but I prefer programing. I'm nooby ieie</h3>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif">
 
+## About Me 🚀 :
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif">
+<h3 align="center">Kiattisak Phothawimoncharat</h3>
 
 ### - Preference : 
-- Anime
-- Coding
-- JPOP
-- Science
+- 🎞️ Anime
+- 💻 Coding
+- 🎧 JPOP / Classic
+- 🧬 Science
+- 📖 Reading
 
 
 
