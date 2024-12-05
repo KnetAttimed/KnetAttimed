@@ -2,6 +2,10 @@
 <h1 align="center"> Hello, I'm Knet Attimed </h1>
 <h3 align="left">I'm Medical Student but I prefer programing. I'm nooby ieie</h3>
 
+```
+🏆 If I have seen further than others, it is by standing upon the shoulders of giants.
+                                  - Isaac Newton -
+```
 
 ## About Me 🚀 :
 <h3 align="left">Kiattisak Phothawimoncharat</h3>
